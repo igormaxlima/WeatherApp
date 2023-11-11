@@ -15,7 +15,7 @@ The Weather App is an iOS application developed in SwiftUI that provides real-ti
 1. Clone the repository to your development environment:
 ```bash
 git clone https://github.com/igormaxlima/WeatherApp.git
-cd weather-app
+cd WeatherApp/
 ```
 2. Open the project in Xcode.
 3. Build and run the app on an iOS simulator or a physical device.
